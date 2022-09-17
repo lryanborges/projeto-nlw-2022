@@ -1,7 +1,7 @@
 # NLW eSports 2022 
 > Trilha Explorer
 
-![preview](./.github/preview.png)
+![preview](./.github/preview0.png)
 
 Projeto construído do evento Next Level Week da Rocketseat
 
